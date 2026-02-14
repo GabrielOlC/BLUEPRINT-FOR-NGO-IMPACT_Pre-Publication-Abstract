@@ -3,9 +3,7 @@
 **A strategic proposal for transforming Animal Welfare from isolated reactive efforts into a unified, data-driven system.**
 
 > **Status:** Research & Development (Pre-Publication) - Currently in early field trials
-> 
 > **Focus:** Society 5.0, One Health, Colaboration, Holacracy, DPM (Dog Population Management).  
-> 
 > **Objective:** Create a self-managed, resilient, and independent network that amplifies collective impact by inspiring talent and enabling sustainable and scalable revenue.
 
 ---
