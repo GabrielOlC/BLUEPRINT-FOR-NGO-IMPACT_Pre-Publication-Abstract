@@ -57,8 +57,6 @@ Adopting the "*Abhay Sankalp*" model: empowering the community to manage their o
 
 <div valign="top"><ul>By <b>standardizing data</b>, <b>sharing specialized resources</b>, and adopting a <b>One Health</b> approach, this framework aims to create a self-sustaining ecosystem where NGOs are not just "charities", but <b>Structural Pillars of Society</b>, capable of solving vulnerabilities at the root.</ul></div>
 
-# Have this sparked your interest? Please, get in contact with me! [LinkedIn](www.linkedin.com/in/gabrieloc-eng)
+# Have this sparked your interest? Please, get in contact with me! [LinkedIn](https://www.linkedin.com/in/gabrieloc-eng)
 
 ## Let’s Talk More About It!
-
-
