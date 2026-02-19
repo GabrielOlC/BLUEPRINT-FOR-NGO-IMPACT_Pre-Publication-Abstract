@@ -45,11 +45,11 @@ Instead of every NGO doing everything (e.g., Rescue + Marketing + Legal + Vet), 
 
 #### B. Data-Driven DPM (Dog Population Management)
 
-Implementing **CNVR (Catch, Neuter, Vaccinate, Return)** as a calculated intervention targeting specific "Source Populations" (e.g., community dogs, backyard breeders). The goal is to grow community trust and engagement, in order to improve animal well-being while on the street.
+Implementing **CNVR (Catch, Neuter, Vaccinate, Return)** as a calculated intervention targeting specific "Source Populations" (e.g., community dogs, backyard breeders). The goal is to grow community trust and engagement, in order to improve animal well-being living on the street.
 
 #### C. Community as the Key Stakeholder
 
-Adopting the "*Abhay Sankalp*" model: empowering the community to manage their own animal populations through education (RDO - Responsible Dog Ownership) and positive engagement, rather than imposing top-down control.
+Adopting the "*Abhay Sankalp*"-like model: empowering the community to manage their own animal populations through education (RDO - Responsible Dog Ownership) and positive engagement, rather than imposing top-down control.
 
 ---
 
